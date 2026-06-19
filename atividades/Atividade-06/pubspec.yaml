@@ -1,0 +1,12 @@
+name: flutter_responsive_layout
+description: Projeto baseado no codelab
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
